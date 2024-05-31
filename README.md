@@ -68,7 +68,7 @@ This project is licensed under the MIT license.
 
 ## Live Site
 
-https://drive.google.com/file/d/1Ot1VMuC9iHmpHnNH33pi7rwN7DlNmRWw/view
+https://pwa-text-editor-dznn.onrender.com/
 
 ## GitHub Repo
 
